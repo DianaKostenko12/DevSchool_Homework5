@@ -1,0 +1,12 @@
+{
+  "name": "homework2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2-task(diaaana_k ).js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
