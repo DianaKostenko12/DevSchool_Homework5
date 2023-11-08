@@ -10,5 +10,5 @@ I am studying at [FICT] (https://fiot.kpi.ua/), majoring in "Information systems
 
 - I studied C# on first year in university;
 - studied HTML, CSS on my own;
-- now I am learning JS in Dev school.
+- I am learning JS in Dev school now.
 
